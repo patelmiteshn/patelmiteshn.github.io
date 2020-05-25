@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/patelmiteshn/patelmiteshn.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a Senior Research Scientist at FX Palo Alto Laboratory Inc. (FXPAL) with extensive experience in developing novel systems using machine learning / deep learning in the domain of indoor localization, user behavior modeling, activity recognition, sensor fusion, using variety of sensors such as RF sensors, RGB, RGB-D images, LiDAR as well as big user data harnessed through web. Prior to joining FXPAL, I was a Research Scientist at Yahoo! Labs where I worked in the Ad Science team on user behavior modeling problem based on user-app interaction data logged on different Yahoo properties. I received my Ph.D. in Robotics from University of Technology Sydney in 2014 where I focused on modeling a wide spectrum of high-level user activities (also known as activities of daily living) using different probabilistic techniques. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Publications
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/patelmiteshn/patelmiteshn.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ACM Journal of Personal and Ubiquitous Computing, 2020 (To Appear)
+* Song, J., Patel, M., Girgensohn, A., Kim, C., “Combining Deep Learning with Geometric Features for Image based Localization in the Gastrointestinal Tract”, https://arxiv.org/abs/2005.04810
+* Biehl, J., Girgensohn, A., Patel, M., “Achieving Accurate Room-Level Indoor Location Estimation with Emerging IoT Networks”, ACM International Conference on Internet of Things, (IoT 2019), 4, 2019
+* Kim, C., Bhatt, C., Patel, M., Kimber, D., “InFo: Indoor Localization using Real-Time Context Fusion of Visual Information from Static and Dynamic Cameras”, IEEE International Conference on Indoor Positioning and Indoor Navigation (IPIN 2019), pp. 1-8, 2019
+* Patel, M., Girgensohn, A., Biehl, J., “Fusing Map Information with a Probabilistic Sensor Model for Indoor Localization using RF Beacons”, IEEE International Conference on Indoor Positioning and Indoor Navigation (IPIN 2018), pp. 1-8, 2018
+* Jadidi, M., Patel, M., Valls Miro, J., Dissanayake, G., Biehl, J., Girgensohn, A., “A Radio-Inertial Localization and Tracking System with BLE Beacons Prior Maps”, IEEE International Conference on Indoor Positioning and Indoor Navigation (IPIN 2018), pp. 206-212, 2018
+* Patel, M., Emery, B., Chen, Y., “ContextualNet: Exploiting Contextual Information using LSTMs to Improve Image-based Localization”, IEEE International Conference on Robotics and Automation (ICRA 2018), pp. 1-7, 2018
+* Falque, R., Patel, M., Biehl, J., “Optimizing Placement and Number of RF Beacons to Achieve Better Indoor Localization”, IEEE International Conference on Robotics and Automation (ICRA 2018), pp. 2304-2315, 2018
+* Avrahami, D., Patel, M., Yamaura, Y., Kratz, S., “Below the Surface: Unobtrusive Activity Recognition for Work Surfaces using RF-radar sensing”, 23rd International Conference on Intelligent User Interfaces (IUI 2018), pp. 439-451, 2018
+* Jadidi, M., Patel, M., Valls Miro, J., “Gaussian process online observation classification for RSSI-based low-cost indoor positioning systems”, IEEE International Conference on Robotics and Automation (ICRA 2017), pp. 6269-6275, 2017
+* Zhang, C., Patel, M., Buthpitiya, S., Lyons, K., Harrison, B., Abowd, G., “Driver Classification Based on Driving Behaviors”, 21st International Conference on Intelligent User Interfaces (IUI2016), 80-84, 2016
+* Holz, C., Bentley, F., Church, K., and Patel, M., ”I’m Just on my phone and they’re watching TV”: Quantifying mobile device use while watching television”, ACM Conference on Interactive Experiences for TV, pp. 93-102, 2015
+* Patel, M., Valls Miro, J., Kragic, D., Ek, C. H., Dissanayake, G., ”Learning Object, Grasping and Manipulation Activities using Hierarchical HMMs”, Journal of Autonomous Robots (Issue on Beyond Grasping: Modern Approaches for Dexterous Manipulation), pp. 1-15, 2014
+* Patel, M., Valls Miro, J., Dissanayake, G., ”A Probabilistic Approach to Learn Activities of Daily Living of a Mobility Aid Device User”, IEEE International Conference on Intelligent Robots and Systems (IROS 2014), pp. 969 -974, 2014
+* Patel, M., Ek, C. H., Kyriazis, N., Argyros, A., Valls Miro, J., Kragic, D., ”Language for Learning Complex Human-Object Interactions”, IEEE International Conference on Robotics and Automation (ICRA 2013), pp. 4982-4987, 2013
+* Patel, M., Valls Miro, J., Dissanayake, G., ”A Hierarchical Hidden Markov Model for Inferring Activities of Daily Living with an Assistive Robotic Walker”, Proceedings of the IEEE International Conference on Biomedical and Biomechatronics, pp. 1071-1076, 2012
+* Patel, M., Valls Miro, J., Dissanayake, G., ”Probabilistic Activity Models to Support Activities of Daily Living for Wheelchair users”, Proc. of workshop on Progress, Challenges and Future Perspectives in Navigation and Manipulation Assistance for Robotic Wheelchairs, IEEE International Conference on Intelligent Robots and Systems (IROS2012), pp. 6, 2012
+* Patel, M., Valls Miro, J., Dissanayake, G., ”Activity Recognition from the Interactions between an Assistive Robotic Walker and Human Users”, Proceedings of 6th ACM/IEEE International conference on Human-Robot Interaction (HRI 2011), pp. 221-222, 2011
+* Patel, M., Lal, S., Kavanagh, D., Rossiter, P., ”Applying Neural network Analysis on Heart Rate variability Data to Assess Driver Fatigue”, Expert Systems with Applications, Vol. 38, No.6, pp. 7235-7242, 2011
+* Patel, M., Valls Miro, J., Dissanayake G., ”Dynamic Bayesian Network for Learning Interactions Between Assistive Robotic Walker and Human Users”, Annual German Conference on Artificial Intelligence (KI 2010), pp. 333-340, 2010
+* Patel, M., Khushaba, R., Valls Miro, J., Dissanayake, G., ”Probabilistic Models versus Discriminate Classifiers for Human Activity Recognition with an Instrumented Mobility-Assistance Aid”, Australisian Conference on Robotics and Automation (ACRA 2010), pages 7, 2010
+* Valls Miro, J., Osswald, V., Patel, M., Dissanayake, G., ”Robotic Assistance with Attitude: A Mobility Agent for Motor Function Rehabilitation and Ambulation Support”, Proceedings of the IEEE 11th International Conference on Rehabilitation Robotics, pp. 529-534, 2009

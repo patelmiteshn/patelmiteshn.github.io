@@ -2,27 +2,6 @@
 
 I am a Senior Research Scientist at FX Palo Alto Laboratory Inc. (FXPAL) with extensive experience in developing novel systems using machine learning / deep learning in the domain of indoor localization, user behavior modeling, activity recognition, sensor fusion, using variety of sensors such as RF sensors, RGB, RGB-D images, LiDAR as well as big user data harnessed through web. Prior to joining FXPAL, I was a Research Scientist at Yahoo! Labs where I worked in the Ad Science team on user behavior modeling problem based on user-app interaction data logged on different Yahoo properties. I received my Ph.D. in Robotics from University of Technology Sydney in 2014 where I focused on modeling a wide spectrum of high-level user activities (also known as activities of daily living) using different probabilistic techniques. 
 
-## Projects
-| Radio-Frequency-Based Indoor-Localization Techniques for Enhancing Internet-of-Things Applications             |   |
-|----------------------------------------------------------------------------------------------------------------|---|
-| Combining Deep Learning with Geometric Features for Image based Localization in the  Gastrointestinal Tract    |   |
-| Achieving Accurate Room-Level Indoor Location Estimation with Emerging IoT Networks                            |   |
-| Unobtrusive Activity Recognition and Position Estimation for Work Surfaces Using RF-Radar Sensing              |   |
-| InFo: Indoor Localization using Real-Time Context Fusion of Visual Information from Static and Dynamic Cameras |   |
-| Fusing Map Information with a Probabilistic Sensor Model for Indoor Localization using RF Beacons              |   |
-| A Radio-Inertial Localization and Tracking System with BLE Beacons Prior Maps                                  |   |
-| ContextualNet: Exploiting Contextual Information using LSTMs to Improve Image-based Localization               |   |
-| Optimizing Placement and Number of RF Beacons to Achieve Better Indoor Localization                            |   |
-| Below the Surface: Unobtrusive Activity Recognition for Work Surfaces using RF-radar sensing                   |   |
-| Gaussian process online observation classification for RSSI-based low-cost indoor positioning systems          |   |
-|                                                                                                                |   |
-|                                                                                                                |   |
-|                                                                                                                |   |
-|                                                                                                                |   |
-|                                                                                                                |   |
-|                                                                                                                |   |
-|                                                                                                                |   |
-
 ## Publications
 
 * Girgensohn, A., **Patel, M.**, Biehl, J.,“Indoor Localization Techniques for Enhancing IoT Applications in Social Contexts and Processes”, ACM Journal of Personal and Ubiquitous Computing, 2020 (To Appear)

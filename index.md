@@ -48,7 +48,7 @@ I am a Senior Research Scientist at FX Palo Alto Laboratory, Inc. <a href="https
 
 ## Publications
 
-<div>
+<div align="justify">
 <ul>
   <li>Girgensohn, A., **Patel, M.**, Biehl, J.,“Indoor Localization Techniques for Enhancing IoT Applications in Social Contexts and Processes”, ACM Journal of Personal and Ubiquitous Computing, 2020 (To Appear)</li>
   <li>Tea</li>

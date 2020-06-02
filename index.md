@@ -17,7 +17,7 @@ I am a Senior Research Scientist at FX Palo Alto Laboratory, Inc. (FXPAL) with e
     </td>    
     <td align="right"> 
       <video src="videos/Loco.mp4" controls autoplay ></video> 
-      <audio controls muted></audio> 
+<!--       <audio controls muted></audio>  -->
     </td>
   </tr>
   <tr>        
@@ -29,7 +29,7 @@ I am a Senior Research Scientist at FX Palo Alto Laboratory, Inc. (FXPAL) with e
     </td>    
     <td align="right"> 
       <video src="videos/gi-tract.mp4" controls autoplay ></video> 
-      <audio controls muted></audio> 
+<!--       <audio controls muted></audio>  -->
     </td>
   </tr>
   <tr>        
@@ -41,7 +41,7 @@ I am a Senior Research Scientist at FX Palo Alto Laboratory, Inc. (FXPAL) with e
     </td>    
     <td align="right"> 
       <video src="videos/activitysense.mp4" controls autoplay ></video> 
-      <audio controls muted></audio> 
+<!--       <audio controls muted></audio>  -->
     </td>
   </tr>
 </table>

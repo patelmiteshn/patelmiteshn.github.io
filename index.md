@@ -17,7 +17,7 @@ I am a Senior Research Scientist at FX Palo Alto Laboratory, Inc. (FXPAL) with e
 <!--     <td align="right"> <video src="videos/Loco.mp4" height="300" width="300"/> </td> -->
     <td align="right"> 
       <video src="videos/Loco.mp4" controls autoplay controls muted width="300" height="300"></video> 
-      <audio controls disable></audio> 
+      <audio controls muted></audio> 
     </td>
   </tr>
 </table>

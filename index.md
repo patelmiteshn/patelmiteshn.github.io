@@ -51,7 +51,7 @@ I am a Senior Research Scientist at FX Palo Alto Laboratory, Inc. <a href="https
 <div align="justify">
 <ul>
   <li>Girgensohn, A., <b>Patel, M.</b>, Biehl, J.,“Indoor Localization Techniques for Enhancing IoT Applications in Social Contexts and Processes”, ACM Journal of Personal and Ubiquitous Computing, 2020 (To Appear)</li>
-  <li>Song, J., <b>Patel, M.</b>, Girgensohn, A., Kim, C., “Combining Deep Learning with Geometric Features for Image based Localization in the Gastrointestinal Tract”, [https://arxiv.org/abs/2005.05481](https://arxiv.org/abs/2005.05481)</li>
+  <li>Song, J., <b>Patel, M.</b>, Girgensohn, A., Kim, C., “Combining Deep Learning with Geometric Features for Image based Localization in the Gastrointestinal Tract”, <a href="https://arxiv.org/abs/2005.05481"> https://arxiv.org/abs/2005.05481</a></li>
   <li>Biehl, J., Girgensohn, A., <b>Patel, M.</b>, “Achieving Accurate Room-Level Indoor Location Estimation with Emerging IoT Networks”, ACM International Conference on Internet of Things, (IoT 2019), 4, 2019</li>
   <li>Avrahami, D., <b>Patel, M.</b>, Yamaura, Y., Kratz, S., Cooper, M.,“Unobtrusive Activity Recognition and Position Estimation for Work SurfacesUsing RF-Radar Sensing”, ACM Transactions on Interactive Intelligent Systems (TiiS), 10 (1), 1-28</li>
   <li>Kim, C., Bhatt, C., <b>Patel, M.</b>, Kimber, D., “InFo: Indoor Localization using Real-Time Context Fusion of Visual Information from Static and Dynamic Cameras”, IEEE International Conference on Indoor Positioning and Indoor Navigation (IPIN 2019), pp. 1-8, 2019</li>

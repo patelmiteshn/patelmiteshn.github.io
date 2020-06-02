@@ -15,7 +15,7 @@ I am a Senior Research Scientist at FX Palo Alto Laboratory Inc. (FXPAL) with ex
       <div align="justify"> In this project we developed localization technologies that leverages on RF sensors such as Bluetooth Low Energy (BLE) beacons or WiFi-RTT access points. The system was developed it can provide various level of localization resolution such as proximity, room level, precise coordinates (like google maps). The system is modular in nature and can utilize information from multiple sensors such as BLE, WiFi-RTT, floor plan, Inertial Measurement Unit (IMU) etc. The system modular such that it can be adapted for variety of applications such as manufacturing, museum visits, hospitals, office visits and can be deployed as a smartphone application.</div>
     </td>    
 <!--     <td align="right"> <video src="videos/Loco.mp4" height="300" width="300"/> </td> -->
-    <td align="right"> <video src="videos/Loco.mp4" controls="" width="300" height="300"></video> </td>
+    <td align="right"> <video src="videos/Loco.mp4" controls preload width="300" height="300"></video> </td>
   </tr>
 </table>
 

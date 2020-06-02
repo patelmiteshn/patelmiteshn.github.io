@@ -1,9 +1,10 @@
 ## About Me
 <DIV align="justify">
 I am a Senior Research Scientist at FX Palo Alto Laboratory Inc. (FXPAL) with extensive experience in developing novel systems using machine learning / deep learning in the domain of indoor localization, user behavior modeling, activity recognition, sensor fusion, using variety of sensors such as RF sensors, RGB, RGB-D images, LiDAR as well as big user data harnessed through web. Prior to joining FXPAL, I was a Research Scientist at Yahoo! Labs where I worked in the Ad Science team on user behavior modeling problem based on user-app interaction data logged on different Yahoo properties. I received my Ph.D. in Robotics from University of Technology Sydney in 2014 where I focused on modeling a wide spectrum of high-level user activities (also known as activities of daily living) using different probabilistic techniques.
-</DIV>
- 
 
+
+CV: <a href="cv/Mitesh_CV.pdf"> CV </a> 
+</DIV>
 ## Publications
 
 * Girgensohn, A., **Patel, M.**, Biehl, J.,“Indoor Localization Techniques for Enhancing IoT Applications in Social Contexts and Processes”, ACM Journal of Personal and Ubiquitous Computing, 2020 (To Appear)

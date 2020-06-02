@@ -48,6 +48,13 @@ I am a Senior Research Scientist at FX Palo Alto Laboratory, Inc. <a href="https
 
 ## Publications
 
+<div>
+<ul>
+  <li>Girgensohn, A., **Patel, M.**, Biehl, J.,“Indoor Localization Techniques for Enhancing IoT Applications in Social Contexts and Processes”, ACM Journal of Personal and Ubiquitous Computing, 2020 (To Appear)</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>  
+</div>
 * Girgensohn, A., **Patel, M.**, Biehl, J.,“Indoor Localization Techniques for Enhancing IoT Applications in Social Contexts and Processes”, ACM Journal of Personal and Ubiquitous Computing, 2020 (To Appear)
 * Song, J., **Patel, M.**., Girgensohn, A., Kim, C., “Combining Deep Learning with Geometric Features for Image based Localization in the Gastrointestinal Tract”, [https://arxiv.org/abs/2005.05481](https://arxiv.org/abs/2005.05481)
 * Biehl, J., Girgensohn, A., **Patel, M.**, “Achieving Accurate Room-Level Indoor Location Estimation with Emerging IoT Networks”, ACM International Conference on Internet of Things, (IoT 2019), 4, 2019

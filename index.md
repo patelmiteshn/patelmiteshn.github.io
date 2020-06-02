@@ -13,7 +13,6 @@ I am a Senior Research Scientist at FX Palo Alto Laboratory, Inc. (FXPAL) with e
       <b>Indoor Localization using Sensors on Smart Devices </b> 
       <br><br/>
       <div align="justify"> In this project we developed localization technologies that leverages on RF sensors such as Bluetooth Low Energy (BLE) beacons or WiFi-RTT access points. The system was developed it can provide various level of localization resolution such as proximity, room level, precise coordinates (like google maps). The system is modular in nature and can utilize information from multiple sensors such as BLE, WiFi-RTT, floor plan, Inertial Measurement Unit (IMU) etc. The system modular such that it can be adapted for variety of applications such as manufacturing, museum visits, hospitals, office visits and can be deployed as a smartphone application.</div>
-<!--       <br><br/> -->
       <a href="https://www.youtube.com/watch?v=bjbSwUveuXs">[Video]</a>
     </td>    
     <td align="right"> 
@@ -26,11 +25,22 @@ I am a Senior Research Scientist at FX Palo Alto Laboratory, Inc. (FXPAL) with e
       <b>Localization of Endoscope </b> 
       <br><br/>
       <div align="justify"> In this project we developed an image based endoscope localization system that combines deep learning predictions with traditional computer vision methods to estimate the pose of the endoscope.</div>
-<!--       <br><br/> -->
       <a href="https://www.youtube.com/watch?v=4T_r3oDc6-M">[Video]</a>
     </td>    
     <td align="right"> 
       <video src="videos/gi-tract.mp4" controls autoplay controls muted width="300" height="300"></video> 
+      <audio controls muted></audio> 
+    </td>
+  </tr>
+  <tr>        
+    <td>
+      <b>Activity Recognition using RF Sensors</b> 
+      <br><br/>
+      <div align="justify"> In this project we developed an activity recognition using RF sensors which can be mounted under desks or walls. The system was tested for variety of applications such as activity prediction at checkout counters, activity prediction performed by office desk users and space utilization on display counters in stores (e.g. apple stores). The system is non-intrusive in natures as it only captures movement through RF signal reflection.</div>
+<!--       <a href="https://www.youtube.com/watch?v=4T_r3oDc6-M">[Video]</a> -->
+    </td>    
+    <td align="right"> 
+      <video src="videos/activitysense.mp4" controls autoplay controls muted width="300" height="300"></video> 
       <audio controls muted></audio> 
     </td>
   </tr>

@@ -9,9 +9,6 @@ I am a Senior Research Scientist at FX Palo Alto Laboratory, Inc. <a href="https
 
 ### Indoor Localization using Sensors on Smart Devices
 
-<video src="videos/Loco.mp4" controls autoplay muted="1" width="100%" ></video>
-<div align="justify"> In this project we developed localization technologies that leverages on RF sensors such as Bluetooth Low Energy (BLE) beacons or WiFi-RTT access points. The system was developed it can provide various level of localization resolution such as proximity, room level, precise coordinates (like google maps). The system is modular in nature and can utilize information from multiple sensors such as BLE, WiFi-RTT, floor plan, Inertial Measurement Unit (IMU) etc. The system modular such that it can be adapted for variety of applications such as manufacturing, museum visits, hospitals, office visits and can be deployed as a smartphone application.</div>
-<a href="https://www.youtube.com/watch?v=bjbSwUveuXs">[Video]</a>
 <table>
   <tr>        
     <td>

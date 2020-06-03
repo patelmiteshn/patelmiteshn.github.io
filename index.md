@@ -7,8 +7,6 @@ I am a Senior Research Scientist at FX Palo Alto Laboratory, Inc. <a href="https
 
 ## Projects
 
-### Indoor Localization using Sensors on Smart Devices
-
 <table>
   <tr>        
     <td>

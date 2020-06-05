@@ -69,7 +69,7 @@
     <video src="videos/gi-tract.mp4" controls autoplay muted="1" width="100%" > </video>
   </div>
   <div align="justify">
-    <p>In this project we developed an image based endoscope localization system that combines deep learning predictions with traditional computer vision methods to estimate the pose of the endoscope. </p>
+    <p>In this project we developed an image based endoscope localization system that combines deep learning predictions with traditional computer vision methods to estimate the pose of the endoscope. The deep learning model classifies the area/zone of the endoscope which is further utilized to do feature matching using traditional computer vision technique.  </p>
     </div>
 </div>
 </body>
@@ -82,10 +82,25 @@
     <video src="videos/activitysense.mp4" controls autoplay muted="1" width="100%" > </video>
   </div>
   <div align="justify">
-    <p>In this project we developed an activity recognition using RF sensors which can be mounted under desks or walls. The system was tested for variety of applications such as activity prediction at checkout counters, activity prediction performed by office desk users and space utilization on display counters in stores (e.g. apple stores). The system is non-intrusive in natures as it only captures movement through RF signal reflection. </p>
+    <p>In this project we developed an activity recognition using RF sensors which can be mounted under desks or walls. The system was tested for variety of applications such as activity prediction at checkout counters (e.g. scanning items, bagging), activity prediction performed by office desk users (e.g. typing on keyboard, reading on desk) and space utilization of display counters in stores (e.g. apple stores). The system is non-intrusive in natures as it only captures movement through RF signal reflection.  </p>
     </div>
 </div>
 </body>
+
+### ContextualNet: An image based localization platform
+
+<body>
+<div class="row">
+  <div class="column">
+    <video src="videos/contextualNet.mp4" controls autoplay muted="1" width="100%" > </video>
+  </div>
+  <div align="justify">
+    <p>In this work, we developed an image based localization system that estimates the location of the robot/smart device user using RGB images. The system is developed using a CNN-LSTM based deep learning framework. The combined system is able to exploit spatial relationship within an image using the CNN layers and the temporal relationship between images using LTSM layers. The system was tested in real-time both on a robot frame and a native smartphone application. </p>
+    </div>
+</div>
+</body>
+
+
 
 ## Publications
 

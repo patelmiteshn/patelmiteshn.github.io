@@ -5,6 +5,49 @@ I am a Senior Research Scientist at FX Palo Alto Laboratory, Inc. <a href="https
 <a href="cv/Mitesh_CV.pdf"> Detailed CV (pdf) </a> 
 </DIV>
 
+
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 500px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
+</head>
+<body>
+  
+<div class="row">
+  <div class="column">
+    <img src="videos/loco_poster.png" alt="Snow" style="width:100%">
+  </div>
+    <p>Resize the browser window to see the effect.Resize the browser window to see the effect.Resize the browser window to see the effect.Resize the browser window to see the effect.Resize the browser window to see the effect.Resize the browser window to see the effect. </p>
+
+  
+</div>
+
+</body>
+</html>
+
 ## Projects
 
 <table>

@@ -16,7 +16,7 @@ I am a Senior Research Scientist at FX Palo Alto Laboratory, Inc. <a href="https
       <a href="https://www.youtube.com/watch?v=bjbSwUveuXs">[Video]</a>
     </td>    
     <td align="right"> 
-      <video src="videos/Loco.mp4" controls autoplay muted="1" width="100%" ></video> 
+      <video src="videos/Loco.mp4" controls autoplay muted="1" width="100%" poster=videos/loco_poster.png></video> 
 <!--       <audio controls muted></audio>  -->
     </td>
   </tr>
@@ -28,7 +28,7 @@ I am a Senior Research Scientist at FX Palo Alto Laboratory, Inc. <a href="https
       <a href="https://www.youtube.com/watch?v=4T_r3oDc6-M">[Video]</a>
     </td>    
     <td align="right"> 
-      <video src="videos/gi-tract.mp4" controls autoplay muted="1" width="100%" ></video> 
+      <video src="videos/gi-tract.mp4" controls autoplay muted="1" width="100%" poster=videos/gi-tract_poster.png></video> 
 <!--       <audio controls muted></audio>  -->
     </td>
   </tr>
@@ -40,7 +40,7 @@ I am a Senior Research Scientist at FX Palo Alto Laboratory, Inc. <a href="https
 <!--       <a href="https://www.youtube.com/watch?v=4T_r3oDc6-M">[Video]</a> -->
     </td>    
     <td align="right"> 
-      <video src="videos/activitysense.mp4" controls autoplay muted="1" width="100%" ></video> 
+      <video src="videos/activitysense.mp4" controls autoplay muted="1" width="100%" poster=videos/activity_recognition_poster.png></video> 
 <!--       <audio controls muted></audio>  -->
     </td>
   </tr>

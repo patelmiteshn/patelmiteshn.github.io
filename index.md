@@ -33,7 +33,7 @@
 <body>
 <div class="row">
   <div class="column">
-    <img src="videos/mitesh_profile.jpg" style="width:100%">
+    <img src="videos/mitesh_profile.jpg" style="width:80%">
   </div>
   <div align="justify">
     <p>I am a Senior Research Scientist at FX Palo Alto Laboratory, Inc. <a href="https://www.fxpal.com/"> (FXPAL)</a> with extensive experience in developing novel systems using machine learning / deep learning in the domain of indoor localization, user behavior modeling, activity recognition, sensor fusion, using variety of sensors such as RF sensors, RGB, RGB-D images, LiDAR as well as big user data harnessed through web. Prior to joining FXPAL, I was a Research Scientist at <a href="https://research.yahoo.com/"> Yahoo! Labs</a> where I worked in the Ad Science team on user behavior modeling problem based on user-app interaction data logged on different Yahoo properties. I received my Ph.D. in Robotics from Center of Autonomous Systems <a href="https://www.uts.edu.au/research-and-teaching/our-research/centre-autonomous-systems"> (CAS)</a> at the University of Technology Sydney in 2014 where I focused on modeling a wide spectrum of high-level user activities (also known as activities of daily living) using different probabilistic techniques. </p>
@@ -44,44 +44,18 @@
 
 ## Projects
 
-<table>
-  <tr>        
-    <td>
-      <b>Indoor Localization using Sensors on Smart Devices </b> 
-      <br><br/>
-      <div align="justify"> In this project we developed localization technologies that leverages on RF sensors such as Bluetooth Low Energy (BLE) beacons or WiFi-RTT access points. The system was developed it can provide various level of localization resolution such as proximity, room level, precise coordinates (like google maps). The system is modular in nature and can utilize information from multiple sensors such as BLE, WiFi-RTT, floor plan, Inertial Measurement Unit (IMU) etc. The system modular such that it can be adapted for variety of applications such as manufacturing, museum visits, hospitals, office visits and can be deployed as a smartphone application.</div>
-      <a href="https://www.youtube.com/watch?v=bjbSwUveuXs">[Video]</a>
-    </td>    
-    <td align="right"> 
-      <video src="videos/Loco.mp4" controls autoplay muted="1" width="100%" poster=videos/loco_poster.png></video> 
-<!--       <audio controls muted></audio>  -->
-    </td>
-  </tr>
-  <tr>        
-    <td>
-      <b>Localization of Endoscope </b> 
-      <br><br/>
-      <div align="justify"> In this project we developed an image based endoscope localization system that combines deep learning predictions with traditional computer vision methods to estimate the pose of the endoscope.</div>
-      <a href="https://www.youtube.com/watch?v=4T_r3oDc6-M">[Video]</a>
-    </td>    
-    <td align="right"> 
-      <video src="videos/gi-tract.mp4" controls autoplay muted="1" width="100%" poster=videos/gi-tract_poster.png></video> 
-<!--       <audio controls muted></audio>  -->
-    </td>
-  </tr>
-  <tr>        
-    <td>
-      <b>Activity Recognition using RF Sensors</b> 
-      <br><br/>
-      <div align="justify"> In this project we developed an activity recognition using RF sensors which can be mounted under desks or walls. The system was tested for variety of applications such as activity prediction at checkout counters, activity prediction performed by office desk users and space utilization on display counters in stores (e.g. apple stores). The system is non-intrusive in natures as it only captures movement through RF signal reflection.</div>
-<!--       <a href="https://www.youtube.com/watch?v=4T_r3oDc6-M">[Video]</a> -->
-    </td>    
-    <td align="right"> 
-      <video src="videos/activitysense.mp4" controls autoplay muted="1" width="100%" poster=videos/activity_recognition_poster.png></video> 
-<!--       <audio controls muted></audio>  -->
-    </td>
-  </tr>
-</table>
+### Indoor Localization using Sensors on Smart Devices
+
+<body>
+<div class="row">
+  <div class="column">
+    <video src="videos/Loco.mp4" controls autoplay muted="1" width="100%" > </video>
+  </div>
+  <div align="justify">
+    <p>In this project we developed localization technologies that leverages on RF sensors such as Bluetooth Low Energy (BLE) beacons or WiFi-RTT access points. The system was developed it can provide various level of localization resolution such as proximity, room level, precise coordinates (like google maps). The system is modular in nature and can utilize information from multiple sensors such as BLE, WiFi-RTT, floor plan, Inertial Measurement Unit (IMU) etc. The system modular such that it can be adapted for variety of applications such as manufacturing, museum visits, hospitals, office visits and can be deployed as a smartphone application. </p>
+    </div>
+</div>
+</body>
 
 ## Publications
 

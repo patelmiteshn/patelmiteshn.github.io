@@ -44,7 +44,7 @@
 
 ## Projects
 
-### Indoor Localization using Sensors on Smart Devices
+#### Indoor Localization using Sensors on Smart Devices
 
 <body>
 <div class="row">
@@ -57,7 +57,7 @@
 </div>
 </body>
 
-### Localization of Endoscope
+#### Localization of Endoscope
 
 <body>
 <div class="row">
@@ -70,7 +70,7 @@
 </div>
 </body>
 
-### Activity Recognition using RF Sensors
+#### Activity Recognition using RF Sensors
 
 <body>
 <div class="row">

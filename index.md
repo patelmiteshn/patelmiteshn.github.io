@@ -5,6 +5,49 @@ I am a Senior Research Scientist at FX Palo Alto Laboratory, Inc. <a href="https
 <a href="cv/Mitesh_CV.pdf"> Detailed CV (pdf) </a> 
 </DIV>
 
+
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 500px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
+</head>
+<body>
+  
+<div class="row">
+  <div class="column">
+    <img src="videos/loco_poster.png" alt="Snow" style="width:100%">
+  </div>
+    <p>Resize the browser window to see the effect.Resize the browser window to see the effect.Resize the browser window to see the effect.Resize the browser window to see the effect.Resize the browser window to see the effect.Resize the browser window to see the effect. </p>
+
+  
+</div>
+
+</body>
+</html>
+
 ## Projects
 
 <table>
@@ -16,7 +59,7 @@ I am a Senior Research Scientist at FX Palo Alto Laboratory, Inc. <a href="https
       <a href="https://www.youtube.com/watch?v=bjbSwUveuXs">[Video]</a>
     </td>    
     <td align="right"> 
-      <video src="videos/Loco.mp4" controls autoplay muted="1" width="100%" ></video> 
+      <video src="videos/Loco.mp4" controls autoplay muted="1" width="100%" poster=videos/loco_poster.png></video> 
 <!--       <audio controls muted></audio>  -->
     </td>
   </tr>
@@ -28,7 +71,7 @@ I am a Senior Research Scientist at FX Palo Alto Laboratory, Inc. <a href="https
       <a href="https://www.youtube.com/watch?v=4T_r3oDc6-M">[Video]</a>
     </td>    
     <td align="right"> 
-      <video src="videos/gi-tract.mp4" controls autoplay muted="1" width="100%" ></video> 
+      <video src="videos/gi-tract.mp4" controls autoplay muted="1" width="100%" poster=videos/gi-tract_poster.png></video> 
 <!--       <audio controls muted></audio>  -->
     </td>
   </tr>
@@ -40,7 +83,7 @@ I am a Senior Research Scientist at FX Palo Alto Laboratory, Inc. <a href="https
 <!--       <a href="https://www.youtube.com/watch?v=4T_r3oDc6-M">[Video]</a> -->
     </td>    
     <td align="right"> 
-      <video src="videos/activitysense.mp4" controls autoplay muted="1" width="100%" ></video> 
+      <video src="videos/activitysense.mp4" controls autoplay muted="1" width="100%" poster=videos/activity_recognition_poster.png></video> 
 <!--       <audio controls muted></audio>  -->
     </td>
   </tr>

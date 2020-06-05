@@ -57,6 +57,32 @@
 </div>
 </body>
 
+### Localization of Endoscope
+
+<body>
+<div class="row">
+  <div class="column">
+    <video src="videos/gi-tract.mp4" controls autoplay muted="1" width="100%" > </video>
+  </div>
+  <div align="justify">
+    <p>In this project we developed an image based endoscope localization system that combines deep learning predictions with traditional computer vision methods to estimate the pose of the endoscope. </p>
+    </div>
+</div>
+</body>
+
+### Activity Recognition using RF Sensors
+
+<body>
+<div class="row">
+  <div class="column">
+    <video src="videos/activitysense.mp4" controls autoplay muted="1" width="100%" > </video>
+  </div>
+  <div align="justify">
+    <p>In this project we developed an activity recognition using RF sensors which can be mounted under desks or walls. The system was tested for variety of applications such as activity prediction at checkout counters, activity prediction performed by office desk users and space utilization on display counters in stores (e.g. apple stores). The system is non-intrusive in natures as it only captures movement through RF signal reflection. </p>
+    </div>
+</div>
+</body>
+
 ## Publications
 
 <div align="justify">

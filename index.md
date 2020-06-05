@@ -8,7 +8,7 @@
 .column {
   float: right;
   width: 33.33%;
-  padding: 5px;
+  padding: 8px;
 }
 
 /* Clearfix (clear floats) */

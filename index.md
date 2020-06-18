@@ -40,7 +40,7 @@
 
 <p> I received my Ph.D. in Robotics from Center of Autonomous Systems <a href="https://www.uts.edu.au/research-and-teaching/our-research/centre-autonomous-systems"> (CAS)</a> at the University of Technology Sydney in 2014 where I focused on modeling a wide spectrum of high-level user activities (also known as activities of daily living) using different probabilistic techniques. </p>
 
-<p> <a href="cv/Mitesh_CV.pdf"> Detailed CV (pdf) </a> </p>
+<p> <a href="cv/Mitesh_CV.pdf"> Detailed CV (pdf) </a> <a href="https://twitter.com/m_i_t_e_s_h?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @m_i_t_e_s_h</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
     </div>
 </div>
 </body>

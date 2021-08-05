@@ -40,7 +40,7 @@
     
 <!--       I am a Senior Research Scientist at FX Palo Alto Laboratory, Inc. <a href="https://www.fxpal.com/"> (FXPAL)</a> with extensive experience in developing novel systems using machine learning / deep learning in the domain of indoor localization, user behavior modeling, activity recognition, sensor fusion, using variety of sensors such as RF sensors, RGB, RGB-D images, LiDAR as well as big user data harnessed through web. Prior to joining FXPAL, I was a Research Scientist at <a href="https://research.yahoo.com/"> Yahoo! Labs</a> where I worked in the Ad Science team on user behavior modeling problem based on user-app interaction data logged on different Yahoo properties.</p>
  -->
-<p> I received my Ph.D. in Robotics from Center of Autonomous Systems <a href="https://www.uts.edu.au/research-and-teaching/our-research/centre-autonomous-systems"> (CAS)</a> at the University of Technology Sydney in 2014 where I focused on modeling a wide spectrum of high-level user activities (also known as activities of daily living) using different probabilistic techniques. </p>
+<p> I received my Ph.D. in Robotics from Center of Autonomous Systems <a href="https://www.uts.edu.au/research-and-teaching/our-research/centre-autonomous-systems"> (CAS)</a> at the University of Technology Sydney in 2014 where I focused on modeling a wide spectrum of high-level user activities (activities of daily living) using different probabilistic techniques. </p>
 
 <p> <a href="cv/Mitesh_CV.pdf"> Detailed CV (pdf) </a> </p>
     </div>

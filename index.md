@@ -36,8 +36,10 @@
     <img src="videos/mitesh_profile_new.png" style="width:100%">
   </div>
   <div align="justify">
-    <p>I am a Senior Research Scientist at FX Palo Alto Laboratory, Inc. <a href="https://www.fxpal.com/"> (FXPAL)</a> with extensive experience in developing novel systems using machine learning / deep learning in the domain of indoor localization, user behavior modeling, activity recognition, sensor fusion, using variety of sensors such as RF sensors, RGB, RGB-D images, LiDAR as well as big user data harnessed through web. Prior to joining FXPAL, I was a Research Scientist at <a href="https://research.yahoo.com/"> Yahoo! Labs</a> where I worked in the Ad Science team on user behavior modeling problem based on user-app interaction data logged on different Yahoo properties.</p>
-
+    <p> I am a Developer Relationship Manager at <a href="https://www.nvidia.com/"> NVIDIA</a>, where I work with researchers in higher education to execute their ideas using NVIDIA SDK(s) and/or platforms. Before joining NVIDIA, I was a Senior Research Scientist at FX Palo Alto Laboratory, Inc. <a href="https://www.fxpal.com/"> (FXPAL)</a>. While at FXPAL, I extensively worked on developing novle systems using machine learning/ deep learning in the domian of indoor localization, user behavior modeling, activity recognition, sensor fusion, using variety of sensors such as RF sensors, RGB, RGB-D images, LiDAR as well as big user data harnessed through web. Prior to joining FXPAL, I was a Research Scientist at <a href="https://research.yahoo.com/"> Yahoo! Labs</a> where I worked in the Ad Science team on user behavior modeling problem based on user-app interaction data logged on different Yahoo properties.</p>
+    
+<!--       I am a Senior Research Scientist at FX Palo Alto Laboratory, Inc. <a href="https://www.fxpal.com/"> (FXPAL)</a> with extensive experience in developing novel systems using machine learning / deep learning in the domain of indoor localization, user behavior modeling, activity recognition, sensor fusion, using variety of sensors such as RF sensors, RGB, RGB-D images, LiDAR as well as big user data harnessed through web. Prior to joining FXPAL, I was a Research Scientist at <a href="https://research.yahoo.com/"> Yahoo! Labs</a> where I worked in the Ad Science team on user behavior modeling problem based on user-app interaction data logged on different Yahoo properties.</p>
+ -->
 <p> I received my Ph.D. in Robotics from Center of Autonomous Systems <a href="https://www.uts.edu.au/research-and-teaching/our-research/centre-autonomous-systems"> (CAS)</a> at the University of Technology Sydney in 2014 where I focused on modeling a wide spectrum of high-level user activities (also known as activities of daily living) using different probabilistic techniques. </p>
 
 <p> <a href="cv/Mitesh_CV.pdf"> Detailed CV (pdf) </a> </p>
@@ -100,13 +102,13 @@
 </body>
 
 
-
 ## Publications
 
 <div align="justify">
 <ul>
-  <li>Girgensohn, A., <b>Patel, M.</b>, Biehl, J.,“Indoor Localization Techniques for Enhancing IoT Applications in Social Contexts and Processes”, ACM Journal of Personal and Ubiquitous Computing, 2020 (To Appear)</li>
-  <li>Song, J., <b>Patel, M.</b>, Girgensohn, A., Kim, C., “Combining Deep Learning with Geometric Features for Image based Localization in the Gastrointestinal Tract”, <a href="https://arxiv.org/abs/2005.05481"> https://arxiv.org/abs/2005.05481</a></li>
+  <li>Song, J., Wang, J., <b>Patel, M.</b>, Chen, D., “Uncertainty Quantification of Hyperspectral Image Denoising Frameworks Based on Sliding-Window Low-Rank Matrix Approximation”, IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2021.3065570 </li>
+  <li>Girgensohn, A., <b>Patel, M.</b>, Biehl, J.,“Indoor Localization Techniques for Enhancing IoT Applications in Social Contexts and Processes”, ACM Journal of Personal and Ubiquitous Computing, 2020, 1 - 17 </li>
+  <li>Song, J., <b>Patel, M.</b>, Girgensohn, A., Kim, C., “Combining Deep Learning with Geometric Features for Image based Localization in the Gastrointestinal Tract”, Expert Systems with Applications, 115631 </li>
   <li>Biehl, J., Girgensohn, A., <b>Patel, M.</b>, “Achieving Accurate Room-Level Indoor Location Estimation with Emerging IoT Networks”, ACM International Conference on Internet of Things, (IoT 2019), 4, 2019</li>
   <li>Avrahami, D., <b>Patel, M.</b>, Yamaura, Y., Kratz, S., Cooper, M.,“Unobtrusive Activity Recognition and Position Estimation for Work SurfacesUsing RF-Radar Sensing”, ACM Transactions on Interactive Intelligent Systems (TiiS), 10 (1), 1-28</li>
   <li>Kim, C., Bhatt, C., <b>Patel, M.</b>, Kimber, D., “InFo: Indoor Localization using Real-Time Context Fusion of Visual Information from Static and Dynamic Cameras”, IEEE International Conference on Indoor Positioning and Indoor Navigation (IPIN 2019), pp. 1-8, 2019</li>
